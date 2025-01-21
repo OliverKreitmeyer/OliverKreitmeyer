@@ -1,6 +1,6 @@
 # Hello World :wave:
 
-### I am currently focused on my colledge.
+### I am currently focused on my college.
 
 * ✉️  You can contact me at [oliverkreitmeyer@gmail.com](mailto:oliverkreitmeyer@gmail.com)
 
